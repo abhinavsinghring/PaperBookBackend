@@ -1,13 +1,25 @@
 [
- { 
-   "id": 1,
-   "examlist": [
-    {
-    "userId": 1,
+  {
     "id": 1,
-    "examTitle": "NEET UG",
-    "titleIconUrl": ""
+    "examlist": [
+      {
+        "userId": 1,
+        "id": 1,
+        "examTitle": "NEET UG",
+        "titleIconUrl": "https://raw.githubusercontent.com/abhinavsinghring/PaperBookBackend/main/image/neet%20ug.png"
+      },
+      {
+        "userId": 1,
+        "id": 2,
+        "examTitle": "JEE Mains",
+        "titleIconUrl": "https://raw.githubusercontent.com/abhinavsinghring/PaperBookBackend/main/image/iitjee.png"
+      },
+      {
+        "userId": 1,
+        "id": 3,
+        "examTitle": "NEET UG",
+        "titleIconUrl": "https://raw.githubusercontent.com/abhinavsinghring/PaperBookBackend/main/image/upsc.png"
+      }
+    ]
   }
-     ]
- } 
 ]
