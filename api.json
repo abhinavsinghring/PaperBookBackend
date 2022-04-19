@@ -1,0 +1,13 @@
+[
+ { 
+   "id": 1,
+   "examlist": [
+    {
+    "userId": 1,
+    "id": 1,
+    "examTitle": "NEET UG",
+    "titleIconUrl": ""
+  }
+     ]
+ } 
+]
